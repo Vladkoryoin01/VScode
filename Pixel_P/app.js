@@ -9,3 +9,5 @@ console.log('Hi', firstName)
 var lastName = 'Kim'
 lastName = 'Mun'
 console.log(lastName)
+
+let a = 10
