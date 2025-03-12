@@ -22,3 +22,4 @@ console.log(typeof fullPrice);
 const responsive = true;
 console.log(responsive);
 console.log(typeof responsive);
+
