@@ -7,20 +7,20 @@
 // const fullPrice = 100000;
 
 
-// const titleProject = prompt('название проекта')
-// console.log(titleProject);
-// const screensValue = prompt("шаблонные, с уникальным дизайном, с анимациями")
-// console.log(screensValue);
+const titleProject = prompt('название проекта')
+console.log(titleProject);
+const screensValue = prompt("шаблонные, с уникальным дизайном, с анимациями")
+console.log(screensValue);
 
 
-// const responsive = prompt("Нужен ли респонсивный сайт? (да/нет)").toLowerCase();
-// if (responsive === "да") {
-//     alert("Отлично! 🚀");
-//     console.log(true)
-// } else {
-//     alert("Понял, делаем без адаптива! 👍");
-//     console.log(false)
-// }
+const responsive = prompt("Нужен ли респонсивный сайт? (да/нет)").toLowerCase();
+if (responsive === "да") {
+    alert("Отлично! 🚀");
+    console.log(true)
+} else {
+    alert("Понял, делаем без адаптива! 👍");
+    console.log(false)
+}
 
 
 let service1 = prompt("Какой сервис нужен?");
