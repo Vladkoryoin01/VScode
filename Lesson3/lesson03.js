@@ -1,3 +1,19 @@
+// let a = 5;
+// let b = '10'
+// // let res = a + + b
+// console.log(a.toString());
+
+// // console.log(res);
+
+// console.log(typeof a);
+// console.log(typeof b);
+// console.log(a + b);
+
+// // alert('hello');
+// let age = + prompt('укажите возраст!');
+// let a = 10
+// let res = age + a
+// console.log(res);
 
 
 // const titleProject = "Оценка проекта";
@@ -28,9 +44,9 @@ console.log(service1)
 let servicePrice1 = Number(prompt("Сколько это будет стоить?"));
 console.log(servicePrice1)
 
-let service2 = prompt("Какой еще сервис тебе нужен?");
+let service2 = prompt("Какой еще сервис вам нужен?");
 console.log(service2)
-let servicePrice2 = Number(prompt("Сколько будет стоить этот второй сервис?"));
+let servicePrice2 = Number(prompt("Сколько будет стоить второй сервис?"));
 console.log(servicePrice2)
 
 let screenPrice = Number(prompt("Сколько стоит работа с экранами?"));
@@ -54,23 +70,6 @@ if (fullPrice > 50000) {
 } else {
     console.log("Что-то пошло не так");
 }
-// let a = 5;
-// let b = '10'
-// // let res = a + + b
-// console.log(a.toString());
-
-// // console.log(res);
-
-// console.log(typeof a);
-// console.log(typeof b);
-// console.log(a + b);
-
-// // alert('hello');
-// let age = + prompt('укажите возраст!');
-// let a = 10
-// let res = age + a
-// console.log(res);
-
 
 
 
