@@ -1,0 +1,21 @@
+h1 {
+    color: aquamarine;
+    align-items: center;
+    letter-spacing: -.025em;
+    text-transform: lowercase;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Helveticaneuecyr, Arial, sans-serif;
+    font-size: 4.06em;
+    font-weight: 500;
+    line-height: 107.692%;
+}
+
+.container {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+    display: flex;
+
+}
